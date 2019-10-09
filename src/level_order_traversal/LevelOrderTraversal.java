@@ -1,5 +1,5 @@
 
-// Program to print height of tree, givenLevel print function and levelOrderTraversal function
+// Program to Print height of tree, givenLevel print function and levelOrderTraversal function
 
 package level_order_traversal;
 
